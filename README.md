@@ -4,7 +4,9 @@
 	Create a summary DataFrame of the ride-sharing data by city type.  Then, create a multiple-line graph that shows the total weekly fares for each city type. Finally, submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results
+<img width="614" alt="summary" src="https://user-images.githubusercontent.com/38327290/146976096-761c2c35-4740-4416-b535-a442162096ac.png">
 
+<img width="824" alt="PyBer_fare_summary" src="https://user-images.githubusercontent.com/38327290/146976177-b9257375-a08e-4357-bedd-e4f81637dd68.png">
 
 ## Summary
 ### Recommendations
